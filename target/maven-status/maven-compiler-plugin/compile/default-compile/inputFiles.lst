@@ -1,0 +1,13 @@
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/UserEntity.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/SubscribesEntity.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/SubsribeRepository.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/rest/controller/UserController.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/UserServiceImpl.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/dto/UserDTO.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/UserRepository.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/UserserviceApplication.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/dto/FindDTO.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/Gender.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/dto/SubscribeDTO.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/UserService.java
+/Users/antonglomadov/IdeaProjects/git/userservice/src/main/java/com/example/userservice/db/SubscribeService.java
